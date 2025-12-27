@@ -6,14 +6,14 @@ Ce dépôt contient l'implémentation logicielle et la documentation technique r
 
 ---
 
-## 👥 Équipe de Réalisation
+# 👥 Équipe de Réalisation
 
 Ce projet a été conçu et développé par l'équipe suivante :
 
 | Membre de l'équipe | Rôle / Contribution |
 | :--- | :--- |
 | **Moncef Enfessi** | Version Python |
-| **Charaf** | Version Matlab |
+| **Charaf Es-Sail** | Version Matlab |
 | **Abdurahman El Fennane** | Version Matlab |
 | **Haitam Elghazi** | Rapport et Documentation |
 | **Noureddine El Moutaouakkil** | Version Python et Readme |
@@ -24,7 +24,7 @@ Ce projet a été conçu et développé par l'équipe suivante :
 
 ---
 
-## 🎯 Objectifs et Portée du Projet
+# 🎯 Objectifs et Portée du Projet
 
 L'objectif de ce projet est de transposer les concepts théoriques du traitement du signal et de l'image en applications logicielles concrètes. Les axes principaux incluent :
 
@@ -35,7 +35,7 @@ L'objectif de ce projet est de transposer les concepts théoriques du traitement
 
 ---
 
-## 🚀 Fonctionnalités Détaillées
+# 🚀 Fonctionnalités Détaillées
 
 L'application est structurée autour de cinq modules principaux :
 
@@ -63,14 +63,16 @@ L'application est structurée autour de cinq modules principaux :
 
 ---
 
-## 💻 Guide d'Installation et d'Exécution
+# 💻 Guide d'Installation et d'Exécution
 
 ### Prérequis Techniques
 * **Environnement Python :** Python 3.8+ (Bibliothèques requises : `numpy`, `matplotlib`, `tkinter`).
 * **Environnement MATLAB :** MATLAB R2018b+ ou GNU Octave.
 * **Système :** Compatible Linux, macOS et Windows.
 
-### ⚙️ Déploiement Rapide
+## ⚙️ Déploiement Rapide
+
+### 1. Version Linux
 
 Pour faciliter l'exécution des différentes versions, des scripts shell sont fournis. Veuillez suivre la procédure ci-dessous dans votre terminal :
 
@@ -96,9 +98,24 @@ Pour faciliter l'exécution des différentes versions, des scripts shell sont fo
         ./version_python.sh
         ```
 
+### 2. Version Windows
+
+Pour faciliter l'exécution des différentes versions, des scripts shell sont fournis. Veuillez suivre la procédure ci-dessous dans votre terminal :
+
+1.  **Cloner le dépôt :**
+    ```bash
+    git clone https://github.com/Noureddine-1954/traitement-image.git
+    cd traitement-image
+    ```
+
+2.  **Executer les programmes :**
+    ```
+    tout simplement executer  les .exe pour chaque version
+    ```
+
 ---
 
-## 📚 Bibliographie et Références
+# 📚 Bibliographie et Références
 
 Les ressources suivantes ont été consultées pour l'élaboration des algorithmes et la compréhension théorique du traitement d'image :
 
